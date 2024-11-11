@@ -4,7 +4,7 @@ public class Cheers {
 	    String chant = args[0];
             chant = chant.toUpperCase();
             int count = Integer.parseInt(args[1]);
-            System.out.println(chant + " count: " + count);
+        //     System.out.println(chant + " count: " + count);
             int i = 0;
             while (i<chant.length()) {
                 if (chant.charAt(i)=='A'||
