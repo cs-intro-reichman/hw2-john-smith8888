@@ -19,6 +19,6 @@ public class CalcPi {
 		}
 		calcPi = calcPi*4;
 		System.out.println("pi according to Java: " + benchmarkPI);
-		System.out.println("pi, approximated: " + calcPi);
+		System.out.println("pi, approximated:     " + calcPi);
 	}
 }
