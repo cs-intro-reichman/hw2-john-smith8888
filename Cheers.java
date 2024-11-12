@@ -22,7 +22,7 @@ public class Cheers {
                         System.out.println("Give me an " + chant.charAt(i) + ": " + chant.charAt(i)+"!");
                 }
                 else
-                        System.out.println("Give me a " + chant.charAt(i) + ": " + chant.charAt(i)+"!");
+                        System.out.println("Give me a  " + chant.charAt(i) + ": " + chant.charAt(i)+"!");
                 i = i+1;
             }
             System.out.println("What does that spell?");
